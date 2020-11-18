@@ -22,8 +22,8 @@
 
 # Some of my Github Stats
 
-![Vitalik github stats](https://github-readme-stats.vercel.app/api?username=vitalikgir&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=vitalikgir&layout=compact)](https://github.com/pedes/github-readme-stats)
+![Vitalik github stats](https://github-readme-stats.vercel.app/api?username=Vitalikgir&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Vitalikgir&layout=compact)](https://github.com/pedes/github-readme-stats)
 
 ---
 
